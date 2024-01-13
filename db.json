@@ -1,0 +1,14 @@
+{
+    "todos": [
+        {
+            "todo_name": "Learn Ionic",
+            "todo_description": "Create Todo App with Ionic",
+            "todo_isCompleted": false
+        },
+        {
+            "todo_name": "Create BPMN diagram",
+            "todo_description": "Create BPMN diagram for Audithink (Special Audit)",
+            "todo_isCompleted": true
+        }
+    ]
+}
